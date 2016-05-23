@@ -15,7 +15,6 @@ class Element implements Printable {
         }  else {
             System.out.println("E=" + this + " p=null" );
         }
-
     }
 
     int countNumber() {
